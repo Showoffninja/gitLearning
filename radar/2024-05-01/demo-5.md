@@ -3,7 +3,7 @@ title: "Demo 5"
 ring: trial
 quadrant: languages-and-frameworks
 tags: [devops, Dora]
-domains: [test2]
+domains: [gitLearning]
 products: [test2]
 champion: "john-doe"
 ---

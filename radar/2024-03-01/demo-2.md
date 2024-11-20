@@ -4,7 +4,7 @@ ring: adopt
 quadrant: platforms-and-operations
 tags: [coding, backend, agile]
 products: [test1]
-domains: [test2]
+domains: [gitLearning]
 ---
 
 This is a revislkaslk lklaslksion of the 2nd demo item. It moved from trail to adopt.
